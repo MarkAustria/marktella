@@ -160,7 +160,7 @@ button:focus{
     right: 0;
     bottom: 0;
     left: 0;
-    background: #dd666c;
+    background: #7E481C;
     z-index: 11000;
     position: fixed;
     display: block;
@@ -289,7 +289,7 @@ button:focus{
 }
 
 .top-header .navbar .navbar-collapse ul li a.active{
-	background: #dd666c;
+	background: #7E481C;
 	color: #ffffff;
 }
 
@@ -343,11 +343,11 @@ button:focus{
 }
 
 .navbar-toggler:hover{
-	border: 1px solid #dd666c;
+	border: 1px solid #7E481C;
 }
 
 .navbar-toggler:hover span{
-	background: #dd666c;
+	background: #7E481C;
 }
 
 
@@ -408,7 +408,7 @@ button:focus{
 	z-index: 3;
 }
 .lbox-details p strong{
-	color: #dd666c;
+	color: #7E481C;
 	font-size: 40px;
 	font-family: 'Marck Script', cursive;
 }
@@ -423,7 +423,7 @@ button:focus{
 	z-index: 3;
 }
 .lbox-details a.btn:hover{
-	background: #dd666c;
+	background: #7E481C;
 }
 
 /*------------------------------------------------------------------
@@ -444,7 +444,7 @@ button:focus{
 	color: #222222;
 }
 .title-box h2 span{
-	color: #dd666c;
+	color: #7E481C;
 	text-decoration: underline;
 }
 .about-main-info h2{
@@ -452,7 +452,7 @@ button:focus{
 	font-family: 'Marck Script', cursive;
 }
 .about-main-info h2 span{
-	color: #dd666c;
+	color: #7E481C;
 	text-decoration: underline;
 }
 
@@ -548,7 +548,7 @@ button:focus{
 }
 
 .main-timeline-box .time-line-date-content .mbr-timeline-date{
-	background: #dd666c;
+	background: #7E481C;
 	color: #ffffff;
 }
 .main-timeline-box .reverse .time-line-date-content .mbr-timeline-date{
@@ -638,7 +638,7 @@ button:focus{
 	-moz-transition: all 0.3s ease-in-out;
 }
 .gallery-box ul li a .overlay{
-	background: #dd666c;
+	background: #7E481C;
 	color: #ffffff;
 	font-size: 22px;
 	text-align: center;
@@ -681,7 +681,7 @@ button:focus{
 }
 
 .event-inner a{
-	background: #dd666c;
+	background: #7E481C;
 	color: #ffffff;
 	padding: 5px 10px;
 	display: inline-block;
@@ -745,7 +745,7 @@ button:focus{
 	transition: all 0.3s;
 }
 .submit-button .btn-common:hover{
-	background-color: #dd666c;
+	background-color: #7E481C;
 }
 
 .custom-select{
@@ -772,7 +772,7 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .footer-box .footer-company-name a{
-	color: #dd666c;
+	color: #7E481C;
 }
 .footer-box .footer-company-name a:hover{
 	color: #63c7bd;
