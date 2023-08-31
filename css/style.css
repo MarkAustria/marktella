@@ -294,7 +294,7 @@ button:focus{
 }
 
 .top-header .navbar .navbar-collapse ul li a:hover{
-	background: #7c4700;
+	background: #f4a460;
 	color: #ffffff;
 }
 
@@ -413,7 +413,7 @@ button:focus{
 	font-family: 'Marck Script', cursive;
 }
 .lbox-details a.btn{
-	background: #7c4700;
+	background: #f4a460;
 	padding: 10px 20px;
 	font-size: 20px;
 	text-transform: uppercase;
@@ -552,7 +552,7 @@ button:focus{
 	color: #ffffff;
 }
 .main-timeline-box .reverse .time-line-date-content .mbr-timeline-date{
-	background: #7c4700;
+	background: #f4a460;
 	color: #ffffff;
 }
 
@@ -689,7 +689,7 @@ button:focus{
 	font-weight: 500;
 }
 .event-inner a:hover{
-	background: #7c4700;
+	background: #f4a460;
 }
 
 /*------------------------------------------------------------------
@@ -723,7 +723,7 @@ button:focus{
 }
 
 .submit-button .btn-common{
-	background-color: #7c4700;
+	background-color: #f4a460;
 	height: 45px;
 	line-height: 45px;
 	font-size: 16px;
@@ -775,7 +775,7 @@ select.form-control:not([size]):not([multiple]){
 	color: #7E481C;
 }
 .footer-box .footer-company-name a:hover{
-	color: #7c4700;
+	color: #f4a460;
 }
 
 
